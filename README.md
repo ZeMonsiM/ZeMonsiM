@@ -10,6 +10,12 @@ I'm an IT student and proud Arch Linux user.
 - 🔵 C++
 - 🟢 NodeJS
 
+## My other IT skills :
+- 🌐 Networking
+- 🐧 Linux
+- 🗃 Databases (SQL / MongoDB)
+- 🖥 Computers in general
+
 <!--
 **ZeMonsiM/ZeMonsiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
