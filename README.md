@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hello World 👋
+
+I'm an IT student and proud Arch Linux user.
+
+## My programming languages :
+- 🖥 HTML / CSS
+- 🟨 Javascript
+- 🐘 PHP
+- 🐍 Python
+- 🔵 C++
+- 🟢 NodeJS
 
 <!--
 **ZeMonsiM/ZeMonsiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
