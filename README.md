@@ -16,6 +16,9 @@ I'm an IT student and proud Arch Linux user.
 - 🗃 Databases (SQL / MongoDB)
 - 🖥 Computers in general
 
+## Currently working on
+- Payday 3 mod manager
+
 <!--
 **ZeMonsiM/ZeMonsiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
