@@ -9,6 +9,7 @@ I'm an IT student and proud Arch Linux user.
 - 🐍 Python
 - 🔵 C++
 - 🟢 NodeJS
+- ☕ Java
 
 ## My other IT skills :
 - 🌐 Networking
