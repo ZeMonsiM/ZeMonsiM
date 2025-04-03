@@ -14,8 +14,7 @@ I'm an IT student and proud Arch Linux user.
 ## My other IT skills :
 - 🌐 Networking
 - 🐧 Linux
-- 🗃 Databases (SQL / MongoDB)
-- 🖥 Computers in general
+- 🗃 Databases (MySQL / MongoDB)
 
 ## Currently working on
 - Godot 4 videogame (game jam)
