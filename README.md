@@ -18,7 +18,7 @@ I'm an IT student and proud Arch Linux user.
 - 🖥 Computers in general
 
 ## Currently working on
-- Payday 3 mod manager
+- Godot 4 videogame (game jam)
 
 <!--
 **ZeMonsiM/ZeMonsiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
