@@ -18,6 +18,7 @@ I'm an IT student and proud Arch Linux user.
 
 ## Currently working on
 - Godot 4 videogame (game jam)
+- Python Library
 
 <!--
 **ZeMonsiM/ZeMonsiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
