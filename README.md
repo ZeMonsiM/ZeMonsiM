@@ -17,7 +17,7 @@ I'm an IT student and proud Arch Linux user.
 - 🗃 Databases (MySQL / MongoDB)
 
 ## Currently working on
-- Godot 4 videogame (game jam)
+- Godot 4 videogame
 - Python Library
 
 <!--
